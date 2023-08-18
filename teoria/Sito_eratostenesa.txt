@@ -1,0 +1,4 @@
+Liczby pierwsze to liczby które dzielą się przez 1 i przez samą siebie. 
+Do takich liczb morzemy zaliczyć między innymi 2 3 5 11 itp.
+Generalnie tutaj pojawia się problem bo nie ma wzoru lub zalerzności na to czy liczba jest pierwsza czy nie 
+i właśnie do tego pomocne jest sito Eratostenesa
